@@ -1,0 +1,16 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1746442450732,2341,MyFirstHTTPTest,200,OK,Thread Group 1-4,text,true,,59240,242,5,5,https://www.juw.edu.pk/career/,1709,0,34
+1746442450732,1709,MyFirstHTTPTest-0,301,Moved Permanently,Thread Group 1-4,text,true,,399,119,5,5,https://juw.edu.pk/career/,1709,0,34
+1746442452443,630,MyFirstHTTPTest-1,200,OK,Thread Group 1-4,text,true,,58841,123,5,5,https://www.juw.edu.pk/career/,610,0,47
+1746442450533,2548,MyFirstHTTPTest,200,OK,Thread Group 1-3,text,true,,59240,242,4,4,https://www.juw.edu.pk/career/,1913,0,65
+1746442450533,1913,MyFirstHTTPTest-0,301,Moved Permanently,Thread Group 1-3,text,true,,399,119,4,4,https://juw.edu.pk/career/,1913,0,65
+1746442452448,633,MyFirstHTTPTest-1,200,OK,Thread Group 1-3,text,true,,58841,123,4,4,https://www.juw.edu.pk/career/,626,0,49
+1746442450131,2978,MyFirstHTTPTest,200,OK,Thread Group 1-1,text,true,,59240,242,3,3,https://www.juw.edu.pk/career/,2310,0,39
+1746442450131,2310,MyFirstHTTPTest-0,301,Moved Permanently,Thread Group 1-1,text,true,,399,119,3,3,https://juw.edu.pk/career/,2310,0,39
+1746442452443,666,MyFirstHTTPTest-1,200,OK,Thread Group 1-1,text,true,,58841,123,3,3,https://www.juw.edu.pk/career/,638,0,54
+1746442450333,2780,MyFirstHTTPTest,200,OK,Thread Group 1-2,text,true,,59240,242,3,3,https://www.juw.edu.pk/career/,2108,0,56
+1746442450333,2108,MyFirstHTTPTest-0,301,Moved Permanently,Thread Group 1-2,text,true,,399,119,3,3,https://juw.edu.pk/career/,2108,0,56
+1746442452446,667,MyFirstHTTPTest-1,200,OK,Thread Group 1-2,text,true,,58841,123,3,3,https://www.juw.edu.pk/career/,664,0,61
+1746442450930,2966,MyFirstHTTPTest,200,OK,Thread Group 1-5,text,true,,59240,242,1,1,https://www.juw.edu.pk/career/,2317,0,76
+1746442450930,2317,MyFirstHTTPTest-0,301,Moved Permanently,Thread Group 1-5,text,true,,399,119,1,1,https://juw.edu.pk/career/,2317,0,76
+1746442453248,648,MyFirstHTTPTest-1,200,OK,Thread Group 1-5,text,true,,58841,123,1,1,https://www.juw.edu.pk/career/,624,0,26
